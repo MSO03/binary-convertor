@@ -1,8 +1,7 @@
----
 
 # Decimal to Binary Converter
 
-A simple program that converts a decimal number to its binary representation. The converter includes both Java and MIPS assembly implementations.
+A program that converts a decimal number to its binary representation. The converter includes both Java and MIPS assembly implementations.
 
 ## Overview
 
