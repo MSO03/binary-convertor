@@ -10,7 +10,7 @@
        li $a3, 7
        jal dec2bin
        exit()
-       # Your output should be
+       # output should be
        # 10011010010.00011111100110101101101
 
 
