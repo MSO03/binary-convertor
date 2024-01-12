@@ -33,9 +33,6 @@ done: ;
 
  public static void main(String[] args){
      // This method has been written as a driver to test
-     // your strlen.  You do NOT need to modify this method
-     // Focus your attention to the `strlen` method.
-
          int arg_0;
 
          arg_0  = Integer.parseInt(args[0]);
