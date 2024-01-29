@@ -45,7 +45,6 @@ Again, replace `<whole>`, `<fractional>`, and `<precision>` with appropriate val
 5. `dec2bin.s`: MIPS assembly implementation.
 6. `whole2bin.s`: MIPS assembly implementation for converting the whole part.
 7. `fractional2bin.s`: MIPS assembly implementation for converting the fractional part.
-8. `README.md`: This file.
 
 ## Requirements
 
